@@ -129,6 +129,22 @@
         "goofy"
       ],
       "id": "13"
+    },
+    {
+      "name": "Big",
+      "species": "Dragon",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Big",
+      "species": "Dragon",
+      "diet": "folivore",
+      "personalityTraits": [],
+      "id": "15"
     }
   ]
 }
